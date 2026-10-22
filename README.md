@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de David Fernandes 😁.
+## Bem-vindo(a) ao perfil de David Fernandes.
 
  <div>
    <a href="https://github.com/David-Fernandes">
